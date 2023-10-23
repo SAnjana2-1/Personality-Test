@@ -1,0 +1,11 @@
+#Methodology:
+
+  We have 6 personalities: Realistic, Investigative, Artistic, Social, Enterprising and Conventional.
+
+1.	Char variables that stores answers in yes as “y” and no as “n”, for some specifics statements or questions.
+2.	System(pause) and system(cls) function that gives a pause and clears the screen.
+3.	Printf statement that askes several personality questions from user.
+4.	Scanf statement that stores answers 
+5.	Other than this we have counter variables that increases by 1 for every “y” and gets stored in specific personality location.
+6.	At last we get total number of y in terms of personality.
+7.	Which in order on the greatest percentage, prints the specific personality type of a person.
